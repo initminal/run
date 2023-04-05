@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Mogra
+- Font Author: Copyright (c) 2015 Lipi Raval (raval.lipi@gmail.com)
+- Font Source: http://fonts.gstatic.com/s/mogra/v19/f0X40eSs8c95TBo4DvLmxtnG.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
